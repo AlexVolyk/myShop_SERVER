@@ -1,8 +1,8 @@
 /node_modules
-/images/**/
-# /images/product_avatar/
-# /images/product_img/
-# /images/user_avatar/
+# /images/**/
+/images/product_avatar/
+/images/product_img/
+/images/user_avatar/
 *.env
 *webpack.config.js
 /video
