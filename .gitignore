@@ -1,4 +1,5 @@
 /node_modules
+images/*
 *.env
 webpack.config.js
 video
