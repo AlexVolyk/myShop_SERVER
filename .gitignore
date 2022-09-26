@@ -1,7 +1,5 @@
 /node_modules
-/images/product_avatar
-/images/product_img
-/images/user_avatar
+logs/**/
 *.env
 *webpack.config.js
 /video
